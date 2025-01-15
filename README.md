@@ -8,4 +8,4 @@
   </p>
 </div>
 
-<img href="https://u8views.com/api/v1/github/profiles/111686991/views/day-week-month-total-count.svg">
+<img src="https://u8views.com/api/v1/github/profiles/111686991/views/day-week-month-total-count.svg">
