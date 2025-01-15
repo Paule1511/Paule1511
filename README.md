@@ -8,4 +8,4 @@
   </p>
 </div>
 
-<a href="https://u8views.com/github/Paule1511" style="display:none;"><img src="https://u8views.com/api/v1/github/profiles/111686991/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/Paule1511" style="display:none;"><img style="display:none;" src="https://u8views.com/api/v1/github/profiles/111686991/views/day-week-month-total-count.svg"></a>
