@@ -6,5 +6,5 @@ When i am not working on a project or learning about things i am interessted in,
 
 
 <div style="visibility: hidden">
-  ![Paule1511 profile views](https://u8views.com/github/Paule1511)
+  [![Paule1511 profile views](https://u8views.com/api/v1/github/profiles/111686991/views/day-week-month-total-count.svg)]
 </div>
