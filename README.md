@@ -4,4 +4,4 @@ I am currently in an education for an IT specialist for application development 
 For my hobby's i love learning low-level programming like Assembly and GPU programming with Vulkan and OpenGL.
 When i am not working on a project or learning about things i am interessted in, i most likely play a videogame or go outside and paly Volleyball or go fishing to get my eyes of the screen.
 
-![Paule1511 profile views](https://u8views.com/github/Paule1511)
+[![Paule1511 profile views]](https://u8views.com/github/Paule1511)
